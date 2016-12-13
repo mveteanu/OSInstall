@@ -1,4 +1,6 @@
-OS Install
-==========
+OS Install Screenshots
+======================
 
-A bunch of screenshots taken during the installation of various legacy operating systems
+This project contains a bunch of screenshots taken during the installation of various legacy operating systems.
+
+Please feel free to use these screenshots in your article, blog, book or website.
